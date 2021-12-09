@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+
+  .copyright {
+    text-align: center;
+    padding: 40px 0px 20px;
+    font-size: 14px;
+  }
+}

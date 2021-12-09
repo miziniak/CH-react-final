@@ -1,0 +1,32 @@
+.link {
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  &__item {
+    margin: 10px 20px -40px 20px;
+    transition: ease 400ms;
+
+    &:hover {
+      transform: scale(1.15) !important;
+    }
+  }
+}
+.counter__content {
+  background: white;
+  border-radius: 8px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin-bottom: 1rem;
+}
+.counter__content-top{
+  border: 0 !important;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 8px;
+  background: white;
+  padding: 1rem;
+}
+
+.card-title{
+  font-weight: 700;
+  margin-top:1rem;
+}
