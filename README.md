@@ -15,3 +15,7 @@ Front end de una tienda online con carrito de compras, utilizando los componente
 ### Autora
 
 Katarzyna Miziniak
+
+#### Video
+
+https://loveonegro.com/coderhouse/react/gif-ejemplo.gif
